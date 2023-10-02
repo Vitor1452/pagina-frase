@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+.frase {
+    background-color: #332F2E;
+    background-color: #332F2E;
+    height: 22em;
+    width: 40em;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+.frase p {
+    text-align: center;
+    margin-top: 2em;
+    /* margin-bottom: 19em; */
+    position: absolute;
+    margin-left: 13em;
+    color: lawngreen;
+    font-size: 19px;
+}
+
+.frase h2 {
+    color: white;
+    /* margin-top: 6em; */
+    /* margin-bottom: -8em; */
+    /* position: absolute; */
+    /* margin-bottom: -9em; */
+    /* margin-top: 5em; */
+    /* position: relative; */
+    text-align: center;
+    padding: 121px;
+    font-size: 26px;
+}
+
+.pause {
+    margin-left: 95px;
+    position: absolute;
+    margin-top: -5em;
+}
+
+.dado {
+    background-color: lawngreen;
+    background-color: lawngreen;
+    border-radius: 25px;
+    width: 45px;
+    height: 45px;
+    margin: 0 auto;
+}
+
+
+.dado img {
+    margin-left: 13px;
+    margin-top: 13px;
+    height: 19px;
+}
